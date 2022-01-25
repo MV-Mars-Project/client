@@ -1,6 +1,6 @@
 # MTTS Client
 
-[Back to documentation repo](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-15/documentation)
+[Back to documentation repo](https://github.com/MV-Mars-Project/documentation)
 
 ## Client core functionality
 
@@ -52,7 +52,7 @@ And for sass make sure you have sass installed.
 npm install -g sass
 ```
 The reason we use -g is installed on your pc instead as a dependency of the project.
-Now you're  all set-up to use the client. Make sure to read the [Wiki](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-15/client/-/wikis/home) if there are any more questions about sass or some of the JS components.
+Now you're  all set-up to use the client. Make sure to read the [Wiki](https://github.com/MV-Mars-Project/documentation/-/wikis/home) if there are any more questions about sass or some of the JS components.
 
 ## Working on the client
 When working on the client we want you to use our practices to keep the codebase consistent.
@@ -86,9 +86,9 @@ Password: test
 ```
 
 ## Important public urls  
-* [Wiki](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-15/client/-/wikis/home)
-* [Web project](https://project-ii.ti.howest.be/mars-15/)
-* [Sonar reports](https://sonar.ti.howest.be/sonar/dashboard?id=2020.project-ii%3Amars-client-15)
+* [Wiki](https://github.com/MV-Mars-Project/documentation/-/wikis/home)
+* [Web project](https://project-ii.ti.howest.be/mars-15/) // offline
+* [Sonar reports](https://sonar.ti.howest.be/sonar/dashboard?id=2020.project-ii%3Amars-client-15) //offline
 
 ---
 
